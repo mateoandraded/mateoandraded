@@ -4,6 +4,12 @@ Welcome to my personal space! Here you'll find a bit about who I am, what I buil
 💻 I'm a Computer Science student at ESPOL, passionate about Databases, Data Analysis. I'm also exploring how to apply AI toolsin real-world problems, and always looking to grow my skills in Mobile and Java Development.
 
 Feel free to explore my work and connect!
+## 📑 Table of Contents
+
+- [Skills](#skills)
+- [Outside of code](#outside-of-code)
+- [Connect with me](#connect-with-me)
+
 
 ##  Skills
 
