@@ -51,6 +51,18 @@ Feel free to explore my work and connect!
   </a>
 </p>
 
+## Outside of code 
+
+Here are some things I enjoy and value beyond programming:
+
+- 🎵 I'm a music lover — especially a fan of Pink Floyd.
+- 🎥 I love filming landscapes and creating videos with background music.
+- 🧠 I'm interested in psychology and how people think and feel.
+- 🗣️ I speak English fluently and enjoy meaningful conversations.
+- 🤝 I like learning about other people's interests to connect better with them.
+- 🏋️ I'm into fitness, especially powerlifting — I enjoy pushing my limits and improving my strength.
+- ⏳ I strive to be productive and make the most out of my time, in a balanced and thoughtful way.
+
 # Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/mateo-andrade-60127926a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateo-andrade-60127926a" height="30" width="40" /></a>
